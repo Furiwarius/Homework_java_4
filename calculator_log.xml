@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-14T22:19:44.449917Z</date>
+  <millis>1671056384449</millis>
+  <nanos>917000</nanos>
+  <sequence>0</sequence>
+  <logger>simple_calculator.controller</logger>
+  <level>INFO</level>
+  <class>simple_calculator.controller</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Expression: 1+1=2</message>
+</record>
+<record>
+  <date>2022-12-14T22:19:46.816557700Z</date>
+  <millis>1671056386816</millis>
+  <nanos>557700</nanos>
+  <sequence>1</sequence>
+  <logger>simple_calculator.controller</logger>
+  <level>INFO</level>
+  <class>simple_calculator.controller</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Expression: 2+2=4</message>
+</record>
+<record>
+  <date>2022-12-14T22:19:49.991334600Z</date>
+  <millis>1671056389991</millis>
+  <nanos>334600</nanos>
+  <sequence>2</sequence>
+  <logger>simple_calculator.controller</logger>
+  <level>INFO</level>
+  <class>simple_calculator.controller</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Expression: 4*5=20</message>
+</record>
+</log>
